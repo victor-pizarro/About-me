@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victor-pizarro
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Data analytics, AI and Machine Learning
+- 🌱 I’m currently learning Data science, data analytics, AI and Machine Learning.
 - 📫 How to reach me: victor.pizarro.martiartu@gmail.com
 
 <!---
